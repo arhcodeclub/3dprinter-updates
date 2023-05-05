@@ -1,0 +1,24 @@
+{
+  "name": "3dprinter-updates",
+  "version": "1.0.0",
+  "description": "Program to interface with our 3d printer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arhcodeclub/3dprinter-updates.git"
+  },
+  "author": "Distractech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arhcodeclub/3dprinter-updates/issues"
+  },
+  "homepage": "https://github.com/arhcodeclub/3dprinter-updates#readme",
+  "devDependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "nconf": "^0.12.0"
+  }
+}
