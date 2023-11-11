@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/arhcodeclub/3dprinter-updates#readme",
   "devDependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "dotenv": "^16.0.3",
     "nconf": "^0.12.0"
   }
